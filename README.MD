@@ -17,5 +17,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/krisnamourt-filho/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Krisnamourt%20Filho-blue"></a>
-<a href="https://twitter.com/krismorte"><img alt="Twitter" src="hhttps://img.shields.io/badge/Twitter-krismorte-lightblue"></a>
+<a href="https://twitter.com/krismorte"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-krismorte-lightblue"></a>
 </p>
