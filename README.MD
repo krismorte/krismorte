@@ -10,7 +10,7 @@
 
 - 💻 &nbsp; Docker | Terraform | AWS | Packer
 - 🛢 &nbsp; MSSQL | Postgres | MySQL
-- :earth_africa: &nbsp; Java | Javascript | GO | Git 
+- :earth_africa: &nbsp; Java | Javascript | GO | Python | Git 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
